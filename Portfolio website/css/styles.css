@@ -1,0 +1,29 @@
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .dark-mode .navbar-light {
+    background-color: #1f1f1f !important;
+    color: #ffffff;
+  }
+  
+  .dark-mode .navbar-light .navbar-nav .nav-link {
+    color: #ffffff !important;
+  }
+  
+  .dark-mode .card {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+  
+  .dark-mode .btn-outline-dark {
+    border-color: #ffffff;
+    color: #ffffff;
+  }
+  
+  .dark-mode .btn-outline-dark:hover {
+    background-color: #ffffff;
+    color: #121212;
+  }
